@@ -3,7 +3,7 @@ Version:	2.1
 Release:	1%{?dist}
 License:	GPLv2+
 URL:		http://xoscope.sourceforge.net/
-Vendor:		Brent Baccala & others
+
 Summary:	Digital oscilloscope on PC
 Source0:	http://dl.sourceforge.net/xoscope/%{name}-%{version}.tar.gz
 BuildRequires:	autoconf
